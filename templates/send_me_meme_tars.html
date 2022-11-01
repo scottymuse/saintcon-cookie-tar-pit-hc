@@ -1,0 +1,17 @@
+<!doctype html>
+<title>Gimme memes!</title>
+<!--
+{% if name %}
+  <h1>Hello {{ name }}!</h1>
+{% else %}
+  <h1>Hello, World!</h1>
+{% endif %}
+-->
+<h1>Upload your memes here!</h1>
+<p>I accept tars of memes. Upload them here.</p>
+<p><small>(10 MB limit please.)</small></p>
+<form enctype = "multipart/form-data" method = "POST">
+  <p>File: <input type = "file" name = "the_file" /></p>
+  <p><input type = "submit" value = "Upload" /></p>
+</form>
+

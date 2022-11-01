@@ -1,0 +1,14 @@
+Title: Cookie Tar Pits
+
+Do you like to play Cookie Clicker? It's kinda vice of mine. I've been working on my game for quite a while, unlocked all the stuff, making trillions of cookies per second. I've got my game saved in this file on my server:
+/home/awesomeperson/important_files/cookie_clicker.txt
+Whew boy! Hours of work down the drain if I were to lose that file, believe you me!
+
+Anywho, can you send me some memes? I got a webpage to accept tarballs of memes. I wrote it in python!
+https://eternaljamnation.com
+
+
+
+
+
+HINT: CVE-2007-4559

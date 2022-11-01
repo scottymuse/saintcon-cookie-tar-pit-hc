@@ -1,0 +1,7 @@
+.gcloudignore
+/lib
+__pycache__
+app.yaml
+bin
+lib64
+pyvenv.cfg
